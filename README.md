@@ -9,6 +9,7 @@ Hardware Used:
   4. Jumper Wires
   
 Software Used:
+  
   1.Arduino IDE
   2.Arduino Bluetooth android app
       link: https://github.com/tashmingulu/Home-Automtion/blob/master/Arduino%20Bluetooth%20Control%20Device.apk
